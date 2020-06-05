@@ -1,0 +1,261 @@
+*{
+    margin:0;
+    padding: 0;
+    margin-bottom: 0;
+}
+*{
+    margin:0;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+a{
+    text-decoration: none;
+
+}
+ul li{
+    list-style: none;
+}
+.bar{
+    background-color:black !important;
+    padding: 10px;
+    color: white;
+    background-image: url(images/bar_image.jfif);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.bar i{
+    margin: 0 10px;
+}
+
+.head-button a{
+    padding: 3px !important;
+    margin-left: 4px;
+    font-size: small;
+}
+.bar-text{
+    font-weight: 1000 !important;
+    font-family:'Open Sans';
+    font-size: 40px;
+    margin-top: 38px;
+}
+.logo{
+    margin-left: 0 !important;
+}
+.head-button{
+    margin-top: 60px;
+}
+.say{
+    margin-left: 120px;
+}
+.nav-button{
+    margin-left: 100px;
+    border-radius: 50% !important;
+}
+.navbar-nav li{
+    margin-left: 1px !important;
+   
+  }
+
+  /* .nav-item:hover > .nav-link,  .dropdown-menu > .dropdown-item:hover {
+    background-color: black;
+    color: white !important;
+    transition: 0.7s !important;
+    border-radius: 1.1rem !important;
+    border-bottom: black;
+  } */
+  .navbar-nav a{
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-bottom: 3px solid transparent;
+  }
+  
+  .navbar-nav a:hover {
+    border-bottom: 3px solid #FF4500;
+  }
+  
+  .navbar-nav a.active {
+    border-bottom: 3px solid #FF4500 !important;
+  }
+  .about-page{
+      text-align: center;
+  }
+  .line{
+    width: 70px;
+    height: 3px;
+    background-color: #FF4500;
+    display: block;
+    margin: auto;
+}
+.text1{
+    line-height: 200%;
+}
+.vision-text1{
+    color: #FF4500;
+    letter-spacing: 8px;
+}
+.vision-text2{
+    letter-spacing: 8px;
+}
+.val-pic{
+    height: 170px !important;
+}
+.vision{
+    line-height: 26px;
+}
+.mission{
+    line-height: 26px;
+}
+.values{
+    line-height: 26px;
+}
+.footer{
+    background-color: #25272e;
+}
+
+.foot1{
+    color: #bbb;
+    
+}
+.footer-last{
+    background-color: #FF4500;
+    font-size: 15px;
+
+}
+.fa-phone,.fa-globe,.fa-envelope{
+    color: #FF4500 !important;
+}
+.line1,.line2{
+    
+        width: 70px;
+        height: 3px;
+        background-color: #FF4500;
+        display: block;
+        margin-left: 0px;
+    
+}
+.topbutton{
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+  text-align: right;
+  font-size: 30px;
+  border: #FF4500;
+  text-decoration: none;
+}
+
+.fa-book{
+    font-size: 80px !important;
+}
+
+.counterboxes{
+    background-color: #FF4500;
+}
+
+.btn{
+    background-color: white;
+}
+
+.fa-check-square{
+    font-size: 80px !important;
+}
+.fa-graduation-cap{
+    font-size: 80px !important;
+}
+.section{
+    background-color: #FF4500;
+}
+.line3{
+    width: 70px;
+    height: 3px;
+    background-color: white;
+    display: block;
+    margin: auto;
+}
+.btn1{
+    background-color: white;
+    color: black;
+}
+.btn2{
+    background-color: white;
+    color: black;
+}
+.fa-mobile{
+    
+  font-size: 50px !important;
+  color: white;
+
+}
+.fa-envelope-open-o{
+    font-size: 50px !important;
+}
+.fa-location-arrow{
+    font-size: 50px !important;
+}
+.map{
+    margin-top: 106px;
+    margin-bottom: 40px;
+}
+textarea{
+    resize: none;
+}
+input{
+    padding: 5px;
+    margin: 7px;
+}
+.text-area{
+    margin-left: 6px !important;
+    
+}
+.query{
+    margin-left: 80px;
+    font-weight: 400;
+    color: #FF4500;
+}
+.btn3{
+    background-color: #FF4500;
+    border-radius: 50px;
+}
+textarea::placeholder{
+    text-indent: 10px;
+}
+
+table{
+    margin: auto;
+}
+
+.navbar ul li a{
+    
+    
+    border-radius: 50px;
+    margin: 10px;
+}
+
+.navbar ul li a:hover{
+    background-color: #FF4500;
+    color: white !important;
+}
+.navbar-nav >.active .nav-link{
+    color: white !important;
+    background-color: #FF4500 !important;
+}    
+.nav a:hover{
+    background-color: #FF4500 !important;
+} 
+.active:active {
+    color: white;
+    background-color: #FF4500;
+  }
+
+marquee{
+    background-color: #FF4500;
+    color: white;
+    height: 60px;
+    font-size: 40px;
+    
+}
